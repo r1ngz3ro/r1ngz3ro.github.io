@@ -2,13 +2,13 @@
 # 👋 Neguadi Mohamed Djaoued
 
 **Cybersecurity & Systems Programming Specialist**  
-Passionate about low-level programming, reverse engineering, and exploit development. Skilled in uncovering system vulnerabilities and building robust security tooling.
+Passionate about low-level programming, reverse engineering, and exploit development. Skilled in uncovering system vulnerabilities and building security tooling.
 
 ---
 
 ## 🚀 Core Expertise
-- **System Analysis:** Linux kernel exploitation, V8 engine analysis, IoT security
-- **Security Tools:** QEMU, advanced fuzzing, Frida instrumentation
+- **System Analysis:** Linux kernel exploitation, V8 exploitation, IoT security
+- **Security Tools:** QEMU, advanced fuzzing, AFL++
 - **Programming:** C, C++, Rust, Python, Java, Solidity, x86/ARM/MIPS Assembly
 - **Languages:** Arabic (Native), French (Professional), English (Professional)
 
@@ -27,8 +27,7 @@ Passionate about low-level programming, reverse engineering, and exploit develop
 ---
 
 ## 🎯 Current Focus
-- Enhancing fuzzing tools and infrastructure
-- Contributing to open-source Bitcoin security projects
+- always learning and hunting for bugs
 - Continuous exploration of advanced exploitation techniques
 
 ---
